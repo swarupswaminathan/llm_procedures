@@ -1,0 +1,14 @@
+results/
+*_results/
+*.xlsx
+*.csv
+*.log
+.env
+data/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+.cursorignore
+.DS_Store
